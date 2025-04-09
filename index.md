@@ -27,7 +27,6 @@ I love turning ideas into reality, especially through interactive apps and meani
 ```
 ## Pictures  
 Here’s one of my project screenshots:  
-[View Screenshot](screenshots/Screenshot%202025-04-08%20160940.png)
 
 ## As a Person
 Outside of tech, I love:
