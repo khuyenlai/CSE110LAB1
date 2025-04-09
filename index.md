@@ -25,8 +25,6 @@ I love turning ideas into reality, especially through interactive apps and meani
 - [x] Add user page content
 - [ ] Submit screenshot
 ```
-## Pictures  
-Here’s one of my project screenshots:  
 
 ## As a Person
 Outside of tech, I love:
