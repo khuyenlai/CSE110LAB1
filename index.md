@@ -1,4 +1,5 @@
 # Khuyen Lai's User Page
+[Look at this hamster!](hamster.png)
 
 ## About Me
 Hi, I'm Khuyen! I'm a student passionate about technology, creativity, and helping people through code.  
