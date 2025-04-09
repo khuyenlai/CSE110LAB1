@@ -38,4 +38,4 @@ Outside of tech, I love:
 ## Links
 - [GitHub](https://github.com/khuyenlai)
 - [Go to About Me section](#about-me)
-- [See this picture of a hamster](Screenshot 2025-02-20 225603.png)
+- ![See this picture of a hamster](/screenshots/2025-02-20 225603.png)
