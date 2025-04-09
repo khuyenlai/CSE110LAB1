@@ -37,5 +37,5 @@ Outside of tech, I love:
 
 ## Links
 - [GitHub](https://github.com/khuyenlai)
-- [Go to About Me section](#-about-me)
+- [Go to About Me section](#about-me)
 - [See other screenshot](screenshots/Screenshot%202025-04-08%20162237.png)
