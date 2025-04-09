@@ -18,12 +18,12 @@ I love turning ideas into reality, especially through interactive apps and meani
 > “Code is a form of expression — I write to solve, build, and grow.”
 
 ## Task List
-'''
+```
 - [x] Clone the repository
 - [x] Create a new branch
 - [x] Add user page content
 - [ ] Submit screenshot
-'''
+```
 ## Pictures  
 Here’s one of my project screenshots:  
 [View Screenshot](screenshots/Screenshot%202025-04-08%20160940.png)
